@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @pjma
-- 👀 I’m interested in math, astrophysics
-- 🌱 I’m currently learning programming
+
 
 
 <!---
